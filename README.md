@@ -1,2 +1,2 @@
 # cursopython
-como criar repositorios no 
+como criar repositorios no github
